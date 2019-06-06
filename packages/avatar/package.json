@@ -1,6 +1,6 @@
 {
   "name": "@josh/avatar",
-  "version": "3.0.0",
+  "version": "0.0.0",
   "description": "> TODO: description",
   "author": "HerfstJ <Josh.Herfst@rabobank.nl>",
   "homepage": "https://github.com/jherfst/mono-repo#readme",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/jherfst/mono-repo/issues"
   },
-  "gitHead": "a325e51bc798500ed102c6a841cda5699bc582cc"
+  "gitHead": "63e3e304e9a2e666984ec8e08de19866b247afa8"
 }
